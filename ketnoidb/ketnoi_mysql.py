@@ -16,3 +16,4 @@ def connect_mysql():
     except Error as e:
         print(f"❌ Lỗi khi kết nối MySQL: {e}")
     return None
+# Tran Dinh Tuan
