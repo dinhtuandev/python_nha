@@ -17,3 +17,4 @@ def connect_mysql():
         print(f"❌ Lỗi khi kết nối MySQL: {e}")
     return None
 # Tran Dinh Tuan
+#Test Commit tren pycharm
