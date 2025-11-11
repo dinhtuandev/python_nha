@@ -1,1 +1,1 @@
-print("This is test file.")
+print("Edit code")
